@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amitfjain
-- 👀 I’m interested in Java Full Stack 
-- 🌱 I’m currently learning Advance Java
-- 💞️ I’m looking to collaborate on Apache POI
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python for Advance Level
+- 💞️ I’m looking to collaborate on Data Analytics & AI/ML projects
 - 📫 How to reach me amu_engg1985@yahoo.co.in
 
 <!---
